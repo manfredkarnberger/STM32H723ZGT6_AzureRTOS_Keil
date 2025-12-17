@@ -3508,46 +3508,46 @@ Image Symbol Table
     [Anonymous Symbol]                       0x080019e0   Section        0  main.o(.text.SystemClock_Config)
     [Anonymous Symbol]                       0x08001aa8   Section        0  system_stm32h7xx.o(.text.SystemInit)
     [Anonymous Symbol]                       0x08001b80   Section        0  stm32h7xx_it.o(.text.TIM23_IRQHandler)
-    [Anonymous Symbol]                       0x08001ba8   Section        0  stm32h7xx_hal_tim.o(.text.TIM_Base_SetConfig)
-    [Anonymous Symbol]                       0x08001d20   Section        0  stm32h7xx_it.o(.text.UsageFault_Handler)
-    [Anonymous Symbol]                       0x08001d28   Section        0  tx_byte_allocate.o(.text._tx_byte_allocate)
-    [Anonymous Symbol]                       0x08001e08   Section        0  tx_byte_pool_cleanup.o(.text._tx_byte_pool_cleanup)
-    [Anonymous Symbol]                       0x08001ea0   Section        0  tx_byte_pool_create.o(.text._tx_byte_pool_create)
-    [Anonymous Symbol]                       0x08001f28   Section        0  tx_byte_pool_search.o(.text._tx_byte_pool_search)
-    [Anonymous Symbol]                       0x08002028   Section        0  tx_initialize_high_level.o(.text._tx_initialize_high_level)
-    [Anonymous Symbol]                       0x08002058   Section        0  tx_initialize_kernel_enter.o(.text._tx_initialize_kernel_enter)
-    [Anonymous Symbol]                       0x080020a8   Section        0  tx_mutex_create.o(.text._tx_mutex_create)
-    [Anonymous Symbol]                       0x08002118   Section        0  tx_mutex_prioritize.o(.text._tx_mutex_prioritize)
-    [Anonymous Symbol]                       0x080021d8   Section        0  tx_mutex_priority_change.o(.text._tx_mutex_priority_change)
-    [Anonymous Symbol]                       0x08002298   Section        0  tx_mutex_put.o(.text._tx_mutex_put)
-    [Anonymous Symbol]                       0x08002518   Section        0  tx_mutex_cleanup.o(.text._tx_mutex_thread_release)
-    [Anonymous Symbol]                       0x08002560   Section        0  tx_queue_create.o(.text._tx_queue_create)
-    [Anonymous Symbol]                       0x080025e0   Section        0  tx_semaphore_create.o(.text._tx_semaphore_create)
-    [Anonymous Symbol]                       0x08002640   Section        0  tx_thread_create.o(.text._tx_thread_create)
-    [Anonymous Symbol]                       0x08002790   Section        0  tx_thread_initialize.o(.text._tx_thread_initialize)
-    [Anonymous Symbol]                       0x080027c8   Section        0  tx_thread_shell_entry.o(.text._tx_thread_shell_entry)
-    [Anonymous Symbol]                       0x08002828   Section        0  tx_thread_sleep.o(.text._tx_thread_sleep)
-    [Anonymous Symbol]                       0x080028c0   Section        0  tx_thread_system_preempt_check.o(.text._tx_thread_system_preempt_check)
-    [Anonymous Symbol]                       0x08002910   Section        0  tx_thread_system_resume.o(.text._tx_thread_system_resume)
-    [Anonymous Symbol]                       0x08002a40   Section        0  tx_thread_system_suspend.o(.text._tx_thread_system_suspend)
-    [Anonymous Symbol]                       0x08002bd0   Section        0  tx_thread_time_slice.o(.text._tx_thread_time_slice)
-    [Anonymous Symbol]                       0x08002c40   Section        0  tx_thread_timeout.o(.text._tx_thread_timeout)
-    [Anonymous Symbol]                       0x08002c78   Section        0  tx_timer_expiration_process.o(.text._tx_timer_expiration_process)
-    [Anonymous Symbol]                       0x08002ca0   Section        0  tx_timer_initialize.o(.text._tx_timer_initialize)
-    [Anonymous Symbol]                       0x08002d48   Section        0  tx_timer_system_activate.o(.text._tx_timer_system_activate)
-    [Anonymous Symbol]                       0x08002da8   Section        0  tx_timer_system_deactivate.o(.text._tx_timer_system_deactivate)
-    [Anonymous Symbol]                       0x08002de8   Section        0  tx_timer_thread_entry.o(.text._tx_timer_thread_entry)
-    [Anonymous Symbol]                       0x08002f30   Section        0  txe_byte_allocate.o(.text._txe_byte_allocate)
-    [Anonymous Symbol]                       0x08002fe8   Section        0  txe_byte_pool_create.o(.text._txe_byte_pool_create)
-    [Anonymous Symbol]                       0x08003160   Section        0  txe_mutex_create.o(.text._txe_mutex_create)
-    [Anonymous Symbol]                       0x080032a8   Section        0  txe_queue_create.o(.text._txe_queue_create)
-    [Anonymous Symbol]                       0x08003428   Section        0  txe_semaphore_create.o(.text._txe_semaphore_create)
-    [Anonymous Symbol]                       0x08003550   Section        0  txe_thread_create.o(.text._txe_thread_create)
-    [Anonymous Symbol]                       0x080036f0   Section        0  main.o(.text.main)
-    [Anonymous Symbol]                       0x080037d0   Section        0  app_threadx.o(.text.tx_app_thread_entry)
-    [Anonymous Symbol]                       0x080037d8   Section        0  app_azure_rtos.o(.text.tx_application_define)
-    $v0                                      0x0800382c   Number         0  fpinit.o(x$fpl$fpinit)
-    x$fpl$fpinit                             0x0800382c   Section       26  fpinit.o(x$fpl$fpinit)
+    [Anonymous Symbol]                       0x08001bb0   Section        0  stm32h7xx_hal_tim.o(.text.TIM_Base_SetConfig)
+    [Anonymous Symbol]                       0x08001d28   Section        0  stm32h7xx_it.o(.text.UsageFault_Handler)
+    [Anonymous Symbol]                       0x08001d30   Section        0  tx_byte_allocate.o(.text._tx_byte_allocate)
+    [Anonymous Symbol]                       0x08001e10   Section        0  tx_byte_pool_cleanup.o(.text._tx_byte_pool_cleanup)
+    [Anonymous Symbol]                       0x08001ea8   Section        0  tx_byte_pool_create.o(.text._tx_byte_pool_create)
+    [Anonymous Symbol]                       0x08001f30   Section        0  tx_byte_pool_search.o(.text._tx_byte_pool_search)
+    [Anonymous Symbol]                       0x08002030   Section        0  tx_initialize_high_level.o(.text._tx_initialize_high_level)
+    [Anonymous Symbol]                       0x08002060   Section        0  tx_initialize_kernel_enter.o(.text._tx_initialize_kernel_enter)
+    [Anonymous Symbol]                       0x080020b0   Section        0  tx_mutex_create.o(.text._tx_mutex_create)
+    [Anonymous Symbol]                       0x08002120   Section        0  tx_mutex_prioritize.o(.text._tx_mutex_prioritize)
+    [Anonymous Symbol]                       0x080021e0   Section        0  tx_mutex_priority_change.o(.text._tx_mutex_priority_change)
+    [Anonymous Symbol]                       0x080022a0   Section        0  tx_mutex_put.o(.text._tx_mutex_put)
+    [Anonymous Symbol]                       0x08002520   Section        0  tx_mutex_cleanup.o(.text._tx_mutex_thread_release)
+    [Anonymous Symbol]                       0x08002568   Section        0  tx_queue_create.o(.text._tx_queue_create)
+    [Anonymous Symbol]                       0x080025e8   Section        0  tx_semaphore_create.o(.text._tx_semaphore_create)
+    [Anonymous Symbol]                       0x08002648   Section        0  tx_thread_create.o(.text._tx_thread_create)
+    [Anonymous Symbol]                       0x08002798   Section        0  tx_thread_initialize.o(.text._tx_thread_initialize)
+    [Anonymous Symbol]                       0x080027d0   Section        0  tx_thread_shell_entry.o(.text._tx_thread_shell_entry)
+    [Anonymous Symbol]                       0x08002830   Section        0  tx_thread_sleep.o(.text._tx_thread_sleep)
+    [Anonymous Symbol]                       0x080028c8   Section        0  tx_thread_system_preempt_check.o(.text._tx_thread_system_preempt_check)
+    [Anonymous Symbol]                       0x08002918   Section        0  tx_thread_system_resume.o(.text._tx_thread_system_resume)
+    [Anonymous Symbol]                       0x08002a48   Section        0  tx_thread_system_suspend.o(.text._tx_thread_system_suspend)
+    [Anonymous Symbol]                       0x08002bd8   Section        0  tx_thread_time_slice.o(.text._tx_thread_time_slice)
+    [Anonymous Symbol]                       0x08002c48   Section        0  tx_thread_timeout.o(.text._tx_thread_timeout)
+    [Anonymous Symbol]                       0x08002c80   Section        0  tx_timer_expiration_process.o(.text._tx_timer_expiration_process)
+    [Anonymous Symbol]                       0x08002ca8   Section        0  tx_timer_initialize.o(.text._tx_timer_initialize)
+    [Anonymous Symbol]                       0x08002d50   Section        0  tx_timer_system_activate.o(.text._tx_timer_system_activate)
+    [Anonymous Symbol]                       0x08002db0   Section        0  tx_timer_system_deactivate.o(.text._tx_timer_system_deactivate)
+    [Anonymous Symbol]                       0x08002df0   Section        0  tx_timer_thread_entry.o(.text._tx_timer_thread_entry)
+    [Anonymous Symbol]                       0x08002f38   Section        0  txe_byte_allocate.o(.text._txe_byte_allocate)
+    [Anonymous Symbol]                       0x08002ff0   Section        0  txe_byte_pool_create.o(.text._txe_byte_pool_create)
+    [Anonymous Symbol]                       0x08003168   Section        0  txe_mutex_create.o(.text._txe_mutex_create)
+    [Anonymous Symbol]                       0x080032b0   Section        0  txe_queue_create.o(.text._txe_queue_create)
+    [Anonymous Symbol]                       0x08003430   Section        0  txe_semaphore_create.o(.text._txe_semaphore_create)
+    [Anonymous Symbol]                       0x08003558   Section        0  txe_thread_create.o(.text._txe_thread_create)
+    [Anonymous Symbol]                       0x080036f8   Section        0  main.o(.text.main)
+    [Anonymous Symbol]                       0x080037d8   Section        0  app_threadx.o(.text.tx_app_thread_entry)
+    [Anonymous Symbol]                       0x080037e0   Section        0  app_azure_rtos.o(.text.tx_application_define)
+    $v0                                      0x08003834   Number         0  fpinit.o(x$fpl$fpinit)
+    x$fpl$fpinit                             0x08003834   Section       26  fpinit.o(x$fpl$fpinit)
     SYSTEM_CLOCK                             0x20c85580   Number         0  tx_initialize_low_level.o ABSOLUTE
     .L_MergedGlobals                         0x24000000   Data           8  stm32h7xx_hal.o(.data..L_MergedGlobals)
     [Anonymous Symbol]                       0x24000000   Section        0  stm32h7xx_hal.o(.data..L_MergedGlobals)
@@ -3876,51 +3876,51 @@ Image Symbol Table
     NMI_Handler                              0x080019d9   Thumb Code     2  stm32h7xx_it.o(.text.NMI_Handler)
     SystemClock_Config                       0x080019e1   Thumb Code   200  main.o(.text.SystemClock_Config)
     SystemInit                               0x08001aa9   Thumb Code   210  system_stm32h7xx.o(.text.SystemInit)
-    TIM23_IRQHandler                         0x08001b81   Thumb Code    34  stm32h7xx_it.o(.text.TIM23_IRQHandler)
-    TIM_Base_SetConfig                       0x08001ba9   Thumb Code   376  stm32h7xx_hal_tim.o(.text.TIM_Base_SetConfig)
-    UsageFault_Handler                       0x08001d21   Thumb Code     2  stm32h7xx_it.o(.text.UsageFault_Handler)
-    _tx_byte_allocate                        0x08001d29   Thumb Code   218  tx_byte_allocate.o(.text._tx_byte_allocate)
-    _tx_byte_pool_cleanup                    0x08001e09   Thumb Code   146  tx_byte_pool_cleanup.o(.text._tx_byte_pool_cleanup)
-    _tx_byte_pool_create                     0x08001ea1   Thumb Code   136  tx_byte_pool_create.o(.text._tx_byte_pool_create)
-    _tx_byte_pool_search                     0x08001f29   Thumb Code   250  tx_byte_pool_search.o(.text._tx_byte_pool_search)
-    _tx_initialize_high_level                0x08002029   Thumb Code    46  tx_initialize_high_level.o(.text._tx_initialize_high_level)
-    _tx_initialize_kernel_enter              0x08002059   Thumb Code    78  tx_initialize_kernel_enter.o(.text._tx_initialize_kernel_enter)
-    _tx_mutex_create                         0x080020a9   Thumb Code   106  tx_mutex_create.o(.text._tx_mutex_create)
-    _tx_mutex_prioritize                     0x08002119   Thumb Code   190  tx_mutex_prioritize.o(.text._tx_mutex_prioritize)
-    _tx_mutex_priority_change                0x080021d9   Thumb Code   190  tx_mutex_priority_change.o(.text._tx_mutex_priority_change)
-    _tx_mutex_put                            0x08002299   Thumb Code   636  tx_mutex_put.o(.text._tx_mutex_put)
-    _tx_mutex_thread_release                 0x08002519   Thumb Code    70  tx_mutex_cleanup.o(.text._tx_mutex_thread_release)
-    _tx_queue_create                         0x08002561   Thumb Code   124  tx_queue_create.o(.text._tx_queue_create)
-    _tx_semaphore_create                     0x080025e1   Thumb Code    92  tx_semaphore_create.o(.text._tx_semaphore_create)
-    _tx_thread_create                        0x08002641   Thumb Code   334  tx_thread_create.o(.text._tx_thread_create)
-    _tx_thread_initialize                    0x08002791   Thumb Code    54  tx_thread_initialize.o(.text._tx_thread_initialize)
-    _tx_thread_shell_entry                   0x080027c9   Thumb Code    90  tx_thread_shell_entry.o(.text._tx_thread_shell_entry)
-    _tx_thread_sleep                         0x08002829   Thumb Code   146  tx_thread_sleep.o(.text._tx_thread_sleep)
-    _tx_thread_system_preempt_check          0x080028c1   Thumb Code    76  tx_thread_system_preempt_check.o(.text._tx_thread_system_preempt_check)
-    _tx_thread_system_resume                 0x08002911   Thumb Code   304  tx_thread_system_resume.o(.text._tx_thread_system_resume)
-    _tx_thread_system_suspend                0x08002a41   Thumb Code   398  tx_thread_system_suspend.o(.text._tx_thread_system_suspend)
-    _tx_thread_time_slice                    0x08002bd1   Thumb Code   112  tx_thread_time_slice.o(.text._tx_thread_time_slice)
-    _tx_thread_timeout                       0x08002c41   Thumb Code    54  tx_thread_timeout.o(.text._tx_thread_timeout)
-    _tx_timer_expiration_process             0x08002c79   Thumb Code    36  tx_timer_expiration_process.o(.text._tx_timer_expiration_process)
-    _tx_timer_initialize                     0x08002ca1   Thumb Code   144  tx_timer_initialize.o(.text._tx_timer_initialize)
-    _tx_timer_system_activate                0x08002d49   Thumb Code    90  tx_timer_system_activate.o(.text._tx_timer_system_activate)
-    _tx_timer_system_deactivate              0x08002da9   Thumb Code    58  tx_timer_system_deactivate.o(.text._tx_timer_system_deactivate)
-    _tx_timer_thread_entry                   0x08002de9   Thumb Code   322  tx_timer_thread_entry.o(.text._tx_timer_thread_entry)
-    _txe_byte_allocate                       0x08002f31   Thumb Code   184  txe_byte_allocate.o(.text._txe_byte_allocate)
-    _txe_byte_pool_create                    0x08002fe9   Thumb Code   374  txe_byte_pool_create.o(.text._txe_byte_pool_create)
-    _txe_mutex_create                        0x08003161   Thumb Code   328  txe_mutex_create.o(.text._txe_mutex_create)
-    _txe_queue_create                        0x080032a9   Thumb Code   382  txe_queue_create.o(.text._txe_queue_create)
-    _txe_semaphore_create                    0x08003429   Thumb Code   290  txe_semaphore_create.o(.text._txe_semaphore_create)
-    _txe_thread_create                       0x08003551   Thumb Code   416  txe_thread_create.o(.text._txe_thread_create)
-    main                                     0x080036f1   Thumb Code   222  main.o(.text.main)
-    tx_app_thread_entry                      0x080037d1   Thumb Code     8  app_threadx.o(.text.tx_app_thread_entry)
-    tx_application_define                    0x080037d9   Thumb Code    64  app_azure_rtos.o(.text.tx_application_define)
-    _fp_init                                 0x0800382d   Thumb Code    26  fpinit.o(x$fpl$fpinit)
-    __fplib_config_fpu_vfp                   0x08003845   Thumb Code     0  fpinit.o(x$fpl$fpinit)
-    __fplib_config_pureend_doubles           0x08003845   Thumb Code     0  fpinit.o(x$fpl$fpinit)
-    D1CorePrescTable                         0x08003846   Data          16  system_stm32h7xx.o(.rodata.D1CorePrescTable)
-    Region$$Table$$Base                      0x08003858   Number         0  anon$$obj.o(Region$$Table)
-    Region$$Table$$Limit                     0x08003878   Number         0  anon$$obj.o(Region$$Table)
+    TIM23_IRQHandler                         0x08001b81   Thumb Code    46  stm32h7xx_it.o(.text.TIM23_IRQHandler)
+    TIM_Base_SetConfig                       0x08001bb1   Thumb Code   376  stm32h7xx_hal_tim.o(.text.TIM_Base_SetConfig)
+    UsageFault_Handler                       0x08001d29   Thumb Code     2  stm32h7xx_it.o(.text.UsageFault_Handler)
+    _tx_byte_allocate                        0x08001d31   Thumb Code   218  tx_byte_allocate.o(.text._tx_byte_allocate)
+    _tx_byte_pool_cleanup                    0x08001e11   Thumb Code   146  tx_byte_pool_cleanup.o(.text._tx_byte_pool_cleanup)
+    _tx_byte_pool_create                     0x08001ea9   Thumb Code   136  tx_byte_pool_create.o(.text._tx_byte_pool_create)
+    _tx_byte_pool_search                     0x08001f31   Thumb Code   250  tx_byte_pool_search.o(.text._tx_byte_pool_search)
+    _tx_initialize_high_level                0x08002031   Thumb Code    46  tx_initialize_high_level.o(.text._tx_initialize_high_level)
+    _tx_initialize_kernel_enter              0x08002061   Thumb Code    78  tx_initialize_kernel_enter.o(.text._tx_initialize_kernel_enter)
+    _tx_mutex_create                         0x080020b1   Thumb Code   106  tx_mutex_create.o(.text._tx_mutex_create)
+    _tx_mutex_prioritize                     0x08002121   Thumb Code   190  tx_mutex_prioritize.o(.text._tx_mutex_prioritize)
+    _tx_mutex_priority_change                0x080021e1   Thumb Code   190  tx_mutex_priority_change.o(.text._tx_mutex_priority_change)
+    _tx_mutex_put                            0x080022a1   Thumb Code   636  tx_mutex_put.o(.text._tx_mutex_put)
+    _tx_mutex_thread_release                 0x08002521   Thumb Code    70  tx_mutex_cleanup.o(.text._tx_mutex_thread_release)
+    _tx_queue_create                         0x08002569   Thumb Code   124  tx_queue_create.o(.text._tx_queue_create)
+    _tx_semaphore_create                     0x080025e9   Thumb Code    92  tx_semaphore_create.o(.text._tx_semaphore_create)
+    _tx_thread_create                        0x08002649   Thumb Code   334  tx_thread_create.o(.text._tx_thread_create)
+    _tx_thread_initialize                    0x08002799   Thumb Code    54  tx_thread_initialize.o(.text._tx_thread_initialize)
+    _tx_thread_shell_entry                   0x080027d1   Thumb Code    90  tx_thread_shell_entry.o(.text._tx_thread_shell_entry)
+    _tx_thread_sleep                         0x08002831   Thumb Code   146  tx_thread_sleep.o(.text._tx_thread_sleep)
+    _tx_thread_system_preempt_check          0x080028c9   Thumb Code    76  tx_thread_system_preempt_check.o(.text._tx_thread_system_preempt_check)
+    _tx_thread_system_resume                 0x08002919   Thumb Code   304  tx_thread_system_resume.o(.text._tx_thread_system_resume)
+    _tx_thread_system_suspend                0x08002a49   Thumb Code   398  tx_thread_system_suspend.o(.text._tx_thread_system_suspend)
+    _tx_thread_time_slice                    0x08002bd9   Thumb Code   112  tx_thread_time_slice.o(.text._tx_thread_time_slice)
+    _tx_thread_timeout                       0x08002c49   Thumb Code    54  tx_thread_timeout.o(.text._tx_thread_timeout)
+    _tx_timer_expiration_process             0x08002c81   Thumb Code    36  tx_timer_expiration_process.o(.text._tx_timer_expiration_process)
+    _tx_timer_initialize                     0x08002ca9   Thumb Code   144  tx_timer_initialize.o(.text._tx_timer_initialize)
+    _tx_timer_system_activate                0x08002d51   Thumb Code    90  tx_timer_system_activate.o(.text._tx_timer_system_activate)
+    _tx_timer_system_deactivate              0x08002db1   Thumb Code    58  tx_timer_system_deactivate.o(.text._tx_timer_system_deactivate)
+    _tx_timer_thread_entry                   0x08002df1   Thumb Code   322  tx_timer_thread_entry.o(.text._tx_timer_thread_entry)
+    _txe_byte_allocate                       0x08002f39   Thumb Code   184  txe_byte_allocate.o(.text._txe_byte_allocate)
+    _txe_byte_pool_create                    0x08002ff1   Thumb Code   374  txe_byte_pool_create.o(.text._txe_byte_pool_create)
+    _txe_mutex_create                        0x08003169   Thumb Code   328  txe_mutex_create.o(.text._txe_mutex_create)
+    _txe_queue_create                        0x080032b1   Thumb Code   382  txe_queue_create.o(.text._txe_queue_create)
+    _txe_semaphore_create                    0x08003431   Thumb Code   290  txe_semaphore_create.o(.text._txe_semaphore_create)
+    _txe_thread_create                       0x08003559   Thumb Code   416  txe_thread_create.o(.text._txe_thread_create)
+    main                                     0x080036f9   Thumb Code   222  main.o(.text.main)
+    tx_app_thread_entry                      0x080037d9   Thumb Code     8  app_threadx.o(.text.tx_app_thread_entry)
+    tx_application_define                    0x080037e1   Thumb Code    64  app_azure_rtos.o(.text.tx_application_define)
+    _fp_init                                 0x08003835   Thumb Code    26  fpinit.o(x$fpl$fpinit)
+    __fplib_config_fpu_vfp                   0x0800384d   Thumb Code     0  fpinit.o(x$fpl$fpinit)
+    __fplib_config_pureend_doubles           0x0800384d   Thumb Code     0  fpinit.o(x$fpl$fpinit)
+    D1CorePrescTable                         0x0800384e   Data          16  system_stm32h7xx.o(.rodata.D1CorePrescTable)
+    Region$$Table$$Base                      0x08003860   Number         0  anon$$obj.o(Region$$Table)
+    Region$$Table$$Limit                     0x08003880   Number         0  anon$$obj.o(Region$$Table)
     uwTickFreq                               0x24000000   Data           1  stm32h7xx_hal.o(.data..L_MergedGlobals)
     uwTickPrio                               0x24000004   Data           4  stm32h7xx_hal.o(.data..L_MergedGlobals)
     SystemCoreClock                          0x24000008   Data           4  system_stm32h7xx.o(.data..L_MergedGlobals)
@@ -3983,9 +3983,9 @@ Memory Map of the image
 
   Image Entry point : 0x080002cd
 
-  Load Region LR_IROM1 (Base: 0x08000000, Size: 0x00003890, Max: 0x00100000, ABSOLUTE)
+  Load Region LR_IROM1 (Base: 0x08000000, Size: 0x00003898, Max: 0x00100000, ABSOLUTE)
 
-    Execution Region ER_IROM1 (Exec base: 0x08000000, Load base: 0x08000000, Size: 0x00003878, Max: 0x00100000, ABSOLUTE)
+    Execution Region ER_IROM1 (Exec base: 0x08000000, Load base: 0x08000000, Size: 0x00003880, Max: 0x00100000, ABSOLUTE)
 
     Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
 
@@ -4132,94 +4132,94 @@ Memory Map of the image
     0x080019e0   0x080019e0   0x000000c8   Code   RO           13    .text.SystemClock_Config  main.o
     0x08001aa8   0x08001aa8   0x000000d2   Code   RO         1255    .text.SystemInit    system_stm32h7xx.o
     0x08001b7a   0x08001b7a   0x00000006   PAD
-    0x08001b80   0x08001b80   0x00000022   Code   RO           62    .text.TIM23_IRQHandler  stm32h7xx_it.o
-    0x08001ba2   0x08001ba2   0x00000006   PAD
-    0x08001ba8   0x08001ba8   0x00000178   Code   RO          109    .text.TIM_Base_SetConfig  stm32h7xx_hal_tim.o
-    0x08001d20   0x08001d20   0x00000002   Code   RO           58    .text.UsageFault_Handler  stm32h7xx_it.o
-    0x08001d22   0x08001d22   0x00000006   PAD
-    0x08001d28   0x08001d28   0x000000da   Code   RO         1408    .text._tx_byte_allocate  tx_byte_allocate.o
-    0x08001e02   0x08001e02   0x00000006   PAD
-    0x08001e08   0x08001e08   0x00000092   Code   RO         1417    .text._tx_byte_pool_cleanup  tx_byte_pool_cleanup.o
-    0x08001e9a   0x08001e9a   0x00000006   PAD
-    0x08001ea0   0x08001ea0   0x00000088   Code   RO         1427    .text._tx_byte_pool_create  tx_byte_pool_create.o
-    0x08001f28   0x08001f28   0x000000fa   Code   RO         1465    .text._tx_byte_pool_search  tx_byte_pool_search.o
-    0x08002022   0x08002022   0x00000006   PAD
-    0x08002028   0x08002028   0x0000002e   Code   RO         1316    .text._tx_initialize_high_level  tx_initialize_high_level.o
-    0x08002056   0x08002056   0x00000002   PAD
-    0x08002058   0x08002058   0x0000004e   Code   RO         1326    .text._tx_initialize_kernel_enter  tx_initialize_kernel_enter.o
-    0x080020a6   0x080020a6   0x00000002   PAD
-    0x080020a8   0x080020a8   0x0000006a   Code   RO         1563    .text._tx_mutex_create  tx_mutex_create.o
-    0x08002112   0x08002112   0x00000006   PAD
-    0x08002118   0x08002118   0x000000be   Code   RO         1600    .text._tx_mutex_prioritize  tx_mutex_prioritize.o
-    0x080021d6   0x080021d6   0x00000002   PAD
-    0x080021d8   0x080021d8   0x000000be   Code   RO         1609    .text._tx_mutex_priority_change  tx_mutex_priority_change.o
-    0x08002296   0x08002296   0x00000002   PAD
-    0x08002298   0x08002298   0x0000027c   Code   RO         1619    .text._tx_mutex_put  tx_mutex_put.o
-    0x08002514   0x08002514   0x00000004   PAD
-    0x08002518   0x08002518   0x00000046   Code   RO         1553    .text._tx_mutex_thread_release  tx_mutex_cleanup.o
-    0x0800255e   0x0800255e   0x00000002   PAD
-    0x08002560   0x08002560   0x0000007c   Code   RO         1638    .text._tx_queue_create  tx_queue_create.o
-    0x080025dc   0x080025dc   0x00000004   PAD
-    0x080025e0   0x080025e0   0x0000005c   Code   RO         1741    .text._tx_semaphore_create  tx_semaphore_create.o
-    0x0800263c   0x0800263c   0x00000004   PAD
-    0x08002640   0x08002640   0x0000014e   Code   RO         1806    .text._tx_thread_create  tx_thread_create.o
-    0x0800278e   0x0800278e   0x00000002   PAD
-    0x08002790   0x08002790   0x00000036   Code   RO         1854    .text._tx_thread_initialize  tx_thread_initialize.o
-    0x080027c6   0x080027c6   0x00000002   PAD
-    0x080027c8   0x080027c8   0x0000005a   Code   RO         1917    .text._tx_thread_shell_entry  tx_thread_shell_entry.o
-    0x08002822   0x08002822   0x00000006   PAD
-    0x08002828   0x08002828   0x00000092   Code   RO         1926    .text._tx_thread_sleep  tx_thread_sleep.o
-    0x080028ba   0x080028ba   0x00000006   PAD
-    0x080028c0   0x080028c0   0x0000004c   Code   RO         1965    .text._tx_thread_system_preempt_check  tx_thread_system_preempt_check.o
-    0x0800290c   0x0800290c   0x00000004   PAD
-    0x08002910   0x08002910   0x00000130   Code   RO         1975    .text._tx_thread_system_resume  tx_thread_system_resume.o
-    0x08002a40   0x08002a40   0x0000018e   Code   RO         1985    .text._tx_thread_system_suspend  tx_thread_system_suspend.o
-    0x08002bce   0x08002bce   0x00000002   PAD
-    0x08002bd0   0x08002bd0   0x00000070   Code   RO         2005    .text._tx_thread_time_slice  tx_thread_time_slice.o
-    0x08002c40   0x08002c40   0x00000036   Code   RO         2025    .text._tx_thread_timeout  tx_thread_timeout.o
-    0x08002c76   0x08002c76   0x00000002   PAD
-    0x08002c78   0x08002c78   0x00000024   Code   RO         2601    .text._tx_timer_expiration_process  tx_timer_expiration_process.o
-    0x08002c9c   0x08002c9c   0x00000004   PAD
-    0x08002ca0   0x08002ca0   0x000000a4   Code   RO         2620    .text._tx_timer_initialize  tx_timer_initialize.o
-    0x08002d44   0x08002d44   0x00000004   PAD
-    0x08002d48   0x08002d48   0x0000005a   Code   RO         2633    .text._tx_timer_system_activate  tx_timer_system_activate.o
-    0x08002da2   0x08002da2   0x00000006   PAD
-    0x08002da8   0x08002da8   0x0000003a   Code   RO         2642    .text._tx_timer_system_deactivate  tx_timer_system_deactivate.o
-    0x08002de2   0x08002de2   0x00000006   PAD
-    0x08002de8   0x08002de8   0x00000142   Code   RO         2651    .text._tx_timer_thread_entry  tx_timer_thread_entry.o
-    0x08002f2a   0x08002f2a   0x00000006   PAD
-    0x08002f30   0x08002f30   0x000000b8   Code   RO         2118    .text._txe_byte_allocate  txe_byte_allocate.o
-    0x08002fe8   0x08002fe8   0x00000176   Code   RO         2127    .text._txe_byte_pool_create  txe_byte_pool_create.o
-    0x0800315e   0x0800315e   0x00000002   PAD
-    0x08003160   0x08003160   0x00000148   Code   RO         2228    .text._txe_mutex_create  txe_mutex_create.o
-    0x080032a8   0x080032a8   0x0000017e   Code   RO         2283    .text._txe_queue_create  txe_queue_create.o
-    0x08003426   0x08003426   0x00000002   PAD
-    0x08003428   0x08003428   0x00000122   Code   RO         2373    .text._txe_semaphore_create  txe_semaphore_create.o
-    0x0800354a   0x0800354a   0x00000006   PAD
-    0x08003550   0x08003550   0x000001a0   Code   RO         2437    .text._txe_thread_create  txe_thread_create.o
-    0x080036f0   0x080036f0   0x000000de   Code   RO           11    .text.main          main.o
-    0x080037ce   0x080037ce   0x00000002   PAD
-    0x080037d0   0x080037d0   0x00000008   Code   RO           35    .text.tx_app_thread_entry  app_threadx.o
-    0x080037d8   0x080037d8   0x00000054   Code   RO           94    .text.tx_application_define  app_azure_rtos.o
-    0x0800382c   0x0800382c   0x0000001a   Code   RO         2813    x$fpl$fpinit        fz_wv.l(fpinit.o)
-    0x08003846   0x08003846   0x00000010   Data   RO         1261    .rodata.D1CorePrescTable  system_stm32h7xx.o
-    0x08003856   0x08003856   0x00000002   PAD
-    0x08003858   0x08003858   0x00000020   Data   RO         2888    Region$$Table       anon$$obj.o
+    0x08001b80   0x08001b80   0x0000002e   Code   RO           62    .text.TIM23_IRQHandler  stm32h7xx_it.o
+    0x08001bae   0x08001bae   0x00000002   PAD
+    0x08001bb0   0x08001bb0   0x00000178   Code   RO          109    .text.TIM_Base_SetConfig  stm32h7xx_hal_tim.o
+    0x08001d28   0x08001d28   0x00000002   Code   RO           58    .text.UsageFault_Handler  stm32h7xx_it.o
+    0x08001d2a   0x08001d2a   0x00000006   PAD
+    0x08001d30   0x08001d30   0x000000da   Code   RO         1408    .text._tx_byte_allocate  tx_byte_allocate.o
+    0x08001e0a   0x08001e0a   0x00000006   PAD
+    0x08001e10   0x08001e10   0x00000092   Code   RO         1417    .text._tx_byte_pool_cleanup  tx_byte_pool_cleanup.o
+    0x08001ea2   0x08001ea2   0x00000006   PAD
+    0x08001ea8   0x08001ea8   0x00000088   Code   RO         1427    .text._tx_byte_pool_create  tx_byte_pool_create.o
+    0x08001f30   0x08001f30   0x000000fa   Code   RO         1465    .text._tx_byte_pool_search  tx_byte_pool_search.o
+    0x0800202a   0x0800202a   0x00000006   PAD
+    0x08002030   0x08002030   0x0000002e   Code   RO         1316    .text._tx_initialize_high_level  tx_initialize_high_level.o
+    0x0800205e   0x0800205e   0x00000002   PAD
+    0x08002060   0x08002060   0x0000004e   Code   RO         1326    .text._tx_initialize_kernel_enter  tx_initialize_kernel_enter.o
+    0x080020ae   0x080020ae   0x00000002   PAD
+    0x080020b0   0x080020b0   0x0000006a   Code   RO         1563    .text._tx_mutex_create  tx_mutex_create.o
+    0x0800211a   0x0800211a   0x00000006   PAD
+    0x08002120   0x08002120   0x000000be   Code   RO         1600    .text._tx_mutex_prioritize  tx_mutex_prioritize.o
+    0x080021de   0x080021de   0x00000002   PAD
+    0x080021e0   0x080021e0   0x000000be   Code   RO         1609    .text._tx_mutex_priority_change  tx_mutex_priority_change.o
+    0x0800229e   0x0800229e   0x00000002   PAD
+    0x080022a0   0x080022a0   0x0000027c   Code   RO         1619    .text._tx_mutex_put  tx_mutex_put.o
+    0x0800251c   0x0800251c   0x00000004   PAD
+    0x08002520   0x08002520   0x00000046   Code   RO         1553    .text._tx_mutex_thread_release  tx_mutex_cleanup.o
+    0x08002566   0x08002566   0x00000002   PAD
+    0x08002568   0x08002568   0x0000007c   Code   RO         1638    .text._tx_queue_create  tx_queue_create.o
+    0x080025e4   0x080025e4   0x00000004   PAD
+    0x080025e8   0x080025e8   0x0000005c   Code   RO         1741    .text._tx_semaphore_create  tx_semaphore_create.o
+    0x08002644   0x08002644   0x00000004   PAD
+    0x08002648   0x08002648   0x0000014e   Code   RO         1806    .text._tx_thread_create  tx_thread_create.o
+    0x08002796   0x08002796   0x00000002   PAD
+    0x08002798   0x08002798   0x00000036   Code   RO         1854    .text._tx_thread_initialize  tx_thread_initialize.o
+    0x080027ce   0x080027ce   0x00000002   PAD
+    0x080027d0   0x080027d0   0x0000005a   Code   RO         1917    .text._tx_thread_shell_entry  tx_thread_shell_entry.o
+    0x0800282a   0x0800282a   0x00000006   PAD
+    0x08002830   0x08002830   0x00000092   Code   RO         1926    .text._tx_thread_sleep  tx_thread_sleep.o
+    0x080028c2   0x080028c2   0x00000006   PAD
+    0x080028c8   0x080028c8   0x0000004c   Code   RO         1965    .text._tx_thread_system_preempt_check  tx_thread_system_preempt_check.o
+    0x08002914   0x08002914   0x00000004   PAD
+    0x08002918   0x08002918   0x00000130   Code   RO         1975    .text._tx_thread_system_resume  tx_thread_system_resume.o
+    0x08002a48   0x08002a48   0x0000018e   Code   RO         1985    .text._tx_thread_system_suspend  tx_thread_system_suspend.o
+    0x08002bd6   0x08002bd6   0x00000002   PAD
+    0x08002bd8   0x08002bd8   0x00000070   Code   RO         2005    .text._tx_thread_time_slice  tx_thread_time_slice.o
+    0x08002c48   0x08002c48   0x00000036   Code   RO         2025    .text._tx_thread_timeout  tx_thread_timeout.o
+    0x08002c7e   0x08002c7e   0x00000002   PAD
+    0x08002c80   0x08002c80   0x00000024   Code   RO         2601    .text._tx_timer_expiration_process  tx_timer_expiration_process.o
+    0x08002ca4   0x08002ca4   0x00000004   PAD
+    0x08002ca8   0x08002ca8   0x000000a4   Code   RO         2620    .text._tx_timer_initialize  tx_timer_initialize.o
+    0x08002d4c   0x08002d4c   0x00000004   PAD
+    0x08002d50   0x08002d50   0x0000005a   Code   RO         2633    .text._tx_timer_system_activate  tx_timer_system_activate.o
+    0x08002daa   0x08002daa   0x00000006   PAD
+    0x08002db0   0x08002db0   0x0000003a   Code   RO         2642    .text._tx_timer_system_deactivate  tx_timer_system_deactivate.o
+    0x08002dea   0x08002dea   0x00000006   PAD
+    0x08002df0   0x08002df0   0x00000142   Code   RO         2651    .text._tx_timer_thread_entry  tx_timer_thread_entry.o
+    0x08002f32   0x08002f32   0x00000006   PAD
+    0x08002f38   0x08002f38   0x000000b8   Code   RO         2118    .text._txe_byte_allocate  txe_byte_allocate.o
+    0x08002ff0   0x08002ff0   0x00000176   Code   RO         2127    .text._txe_byte_pool_create  txe_byte_pool_create.o
+    0x08003166   0x08003166   0x00000002   PAD
+    0x08003168   0x08003168   0x00000148   Code   RO         2228    .text._txe_mutex_create  txe_mutex_create.o
+    0x080032b0   0x080032b0   0x0000017e   Code   RO         2283    .text._txe_queue_create  txe_queue_create.o
+    0x0800342e   0x0800342e   0x00000002   PAD
+    0x08003430   0x08003430   0x00000122   Code   RO         2373    .text._txe_semaphore_create  txe_semaphore_create.o
+    0x08003552   0x08003552   0x00000006   PAD
+    0x08003558   0x08003558   0x000001a0   Code   RO         2437    .text._txe_thread_create  txe_thread_create.o
+    0x080036f8   0x080036f8   0x000000de   Code   RO           11    .text.main          main.o
+    0x080037d6   0x080037d6   0x00000002   PAD
+    0x080037d8   0x080037d8   0x00000008   Code   RO           35    .text.tx_app_thread_entry  app_threadx.o
+    0x080037e0   0x080037e0   0x00000054   Code   RO           94    .text.tx_application_define  app_azure_rtos.o
+    0x08003834   0x08003834   0x0000001a   Code   RO         2813    x$fpl$fpinit        fz_wv.l(fpinit.o)
+    0x0800384e   0x0800384e   0x00000010   Data   RO         1261    .rodata.D1CorePrescTable  system_stm32h7xx.o
+    0x0800385e   0x0800385e   0x00000002   PAD
+    0x08003860   0x08003860   0x00000020   Data   RO         2888    Region$$Table       anon$$obj.o
 
 
-    Execution Region RW_IRAM1 (Exec base: 0x20000000, Load base: 0x08003878, Size: 0x00000000, Max: 0x00020000, ABSOLUTE)
+    Execution Region RW_IRAM1 (Exec base: 0x20000000, Load base: 0x08003880, Size: 0x00000000, Max: 0x00020000, ABSOLUTE)
 
     **** No section assigned to this execution region ****
 
 
-    Execution Region RW_IRAM2 (Exec base: 0x24000000, Load base: 0x08003878, Size: 0x00001278, Max: 0x00050000, ABSOLUTE)
+    Execution Region RW_IRAM2 (Exec base: 0x24000000, Load base: 0x08003880, Size: 0x00001278, Max: 0x00050000, ABSOLUTE)
 
     Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
 
-    0x24000000   0x08003878   0x00000008   Data   RW         1046    .data..L_MergedGlobals  stm32h7xx_hal.o
-    0x24000008   0x08003880   0x00000008   Data   RW         1262    .data..L_MergedGlobals  system_stm32h7xx.o
-    0x24000010   0x08003888   0x00000004   Data   RW         1857    .data._tx_thread_system_state  tx_thread_initialize.o
-    0x24000014   0x0800388c   0x00000004   PAD
+    0x24000000   0x08003880   0x00000008   Data   RW         1046    .data..L_MergedGlobals  stm32h7xx_hal.o
+    0x24000008   0x08003888   0x00000008   Data   RW         1262    .data..L_MergedGlobals  system_stm32h7xx.o
+    0x24000010   0x08003890   0x00000004   Data   RW         1857    .data._tx_thread_system_state  tx_thread_initialize.o
+    0x24000014   0x08003894   0x00000004   PAD
     0x24000018        -       0x00000060   Zero   RW         2753    .bss                c_w.l(libspace.o)
     0x24000078        -       0x00000050   Zero   RW           41    .bss..L_MergedGlobals  app_threadx.o
     0x240000c8        -       0x00000030   Zero   RW         1319    .bss..L_MergedGlobals  tx_initialize_high_level.o
@@ -4237,7 +4237,7 @@ Memory Map of the image
     0x240007c0        -       0x000000b0   Zero   RW           39    .bss.tx_app_thread  app_threadx.o
     0x24000870        -       0x00000400   Zero   RW           97    .bss.tx_byte_pool_buffer  app_azure_rtos.o
     0x24000c70        -       0x00000004   Zero   RW         1045    .bss.uwTick         stm32h7xx_hal.o
-    0x24000c74   0x0800388c   0x00000004   PAD
+    0x24000c74   0x08003894   0x00000004   PAD
     0x24000c78        -       0x00000200   Zero   RW            2    HEAP                startup_stm32h723xx.o
     0x24000e78        -       0x00000400   Zero   RW            1    STACK               startup_stm32h723xx.o
 
@@ -4262,7 +4262,7 @@ Image component sizes
       1066          0          0          0          0      67566   stm32h7xx_hal_tim.o
          6          0          0          0          0      27283   stm32h7xx_hal_tim_ex.o
        160          0          0          0         76       9661   stm32h7xx_hal_timebase_tim.o
-        46          0          0          0          0       2537   stm32h7xx_it.o
+        58          0          0          0          0       2538   stm32h7xx_it.o
        254          0         16          8          0       5656   system_stm32h7xx.o
        218          0          0          0          0       5284   tx_byte_allocate.o
        146          0          0          0          0       4790   tx_byte_pool_cleanup.o
@@ -4303,9 +4303,9 @@ Image component sizes
        416          0          0          0          0       5532   txe_thread_create.o
 
     ----------------------------------------------------------------------
-     13172        266        766         20       4612     342030   Object Totals
+     13180        266        766         20       4612     342031   Object Totals
          0          0         32          0          0          0   (incl. Generated)
-       294         12          2          0          8          0   (incl. Padding)
+       290         12          2          0          8          0   (incl. Padding)
 
     ----------------------------------------------------------------------
 
@@ -4357,15 +4357,15 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     13690        282        766         20       4708     341782   Grand Totals
-     13690        282        766         20       4708     341782   ELF Image Totals
-     13690        282        766         20          0          0   ROM Totals
+     13698        282        766         20       4708     341783   Grand Totals
+     13698        282        766         20       4708     341783   ELF Image Totals
+     13698        282        766         20          0          0   ROM Totals
 
 ==============================================================================
 
-    Total RO  Size (Code + RO Data)                14456 (  14.12kB)
+    Total RO  Size (Code + RO Data)                14464 (  14.12kB)
     Total RW  Size (RW Data + ZI Data)              4728 (   4.62kB)
-    Total ROM Size (Code + RO Data + RW Data)      14476 (  14.14kB)
+    Total ROM Size (Code + RO Data + RW Data)      14484 (  14.14kB)
 
 ==============================================================================
 

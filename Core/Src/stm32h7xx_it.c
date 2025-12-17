@@ -169,7 +169,8 @@ void TIM23_IRQHandler(void)
   /* USER CODE END TIM23_IRQn 0 */
   HAL_TIM_IRQHandler(&htim23);
   /* USER CODE BEGIN TIM23_IRQn 1 */
-	HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_12);
+	HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_12);	
+	HAL_GPIO_TogglePin(GPIOG, GPIO_PIN_7);
   /* USER CODE END TIM23_IRQn 1 */
 }
 
