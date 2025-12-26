@@ -127,8 +127,8 @@ void tx_app_thread_entry(ULONG thread_input)
   /* USER CODE BEGIN tx_app_thread_entry */
 	while(1)
 	{
-		tx_thread_sleep(50);
-//		HAL_GPIO_TogglePin(GPIOG, GPIO_PIN_7);
+		tx_thread_sleep(1);
+		HAL_GPIO_TogglePin(GPIOG, GPIO_PIN_7);
 	}
   /* USER CODE END tx_app_thread_entry */
 }
